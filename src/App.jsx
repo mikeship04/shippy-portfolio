@@ -1,8 +1,8 @@
 import Intro from "./Components/intro/Intro";
 import About from "./Components/about/About"
 import ProjectList from "./Components/projectList/ProjectList";
-import Contact from "./Components/contactInfo/Contact";
-import DarkMode from "./Components/Darkmode/DarkMode";
+import Contact from "./Components/contactinfo/Contact";
+import DarkMode from "./Components/DarkMode/DarkMode";
 import { useContext } from "react";
 import { ThemeContext } from "./context";
 

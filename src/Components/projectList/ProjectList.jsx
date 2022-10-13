@@ -1,7 +1,7 @@
 import React from 'react'
 import './projectlist.css'
 import Projects from '../projects/Projects'
-import {projectInfo} from '../../projectInfo'
+import {projectInfo} from '../../projectinfo'
 
 function ProjectList() {
   return (
