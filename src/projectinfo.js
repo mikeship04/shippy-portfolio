@@ -1,7 +1,7 @@
 export const projectInfo = [
     {
         id: 1,
-        name: 'leetcodes',
+        name: 'leet code solutions',
         img: 'https://leetcode.com/static/images/LeetCode_Sharing.png',
         link: 'https://github.com/mikeship04/LeetCodes',
     },
@@ -19,13 +19,13 @@ export const projectInfo = [
     },
     {
         id: 4,
-        name: 'lets game',
+        name: 'Game time',
         img: 'https://snacknation.com/wp-content/uploads/2021/08/online-group-games-e1630355473843.png',
         link: 'https://github.com/mikeship04/Gametime',
     },
     {
         id: 5,
-        name: 'meal prep',
+        name: 'meal prep app',
         img: 'https://hips.hearstapps.com/hmg-prod/images/meal-prep-index-1566932947.png',
         link: 'https://github.com/mikeship04/meal-prep-app',
     },

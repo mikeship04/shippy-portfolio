@@ -8,6 +8,7 @@ function Projects({img, link, name}) {
             <div className="p-circle"></div>
             <div className="p-circle"></div>
             <div className="p-circle"></div>
+            <p className="p-text">{name}</p>
         </div>
         <a href={link} target='_blank' rel='noreferrer'>
             <img src={img} alt={name} className='p-img'>

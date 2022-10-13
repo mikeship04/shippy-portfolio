@@ -18,9 +18,10 @@ function Intro() {
                     </div>
                 </div>
                 <p className="i-desc">
-                    I am a hospitality manger turned software engineer. 
-                    I bring a passion for modern web-design, 
-                    UI/UX, and Full-Stack application creation.
+                    I am a hospitality manger turned software engineer.  
+                    With years of experience of customer
+                    facing interaction, I bring a passion for modern web-design, 
+                    UI/UX, and creating Full-Stack applications.
                 </p>
             </div>
         </div>

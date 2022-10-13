@@ -55,6 +55,7 @@
 
 .a-desc{
     font-weight: 300;
+    width: 60%;
 }
 
 .a-award{
@@ -72,6 +73,10 @@
     font-weight: bold;
     color: darkslategray;
     margin-bottom: 10px;
+}
+
+.a-award-desc{
+    width: 80%;
 }
 
 @media screen and (max-width: 480px){

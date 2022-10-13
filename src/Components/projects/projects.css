@@ -8,7 +8,7 @@
 }
 
 .p-browser{
-    height: 20px;
+    height: 30px;
     background-color: gray;
     display: flex;
     align-items: center;
@@ -22,6 +22,10 @@
     border-radius: 50%;
     margin: 3px;
     background-color: white;
+}
+
+.p-text{
+    margin-left: 35%;
 }
 
 .p-img{

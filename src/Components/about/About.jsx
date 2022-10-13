@@ -17,16 +17,18 @@ function About() {
         <div className="a-right">
             <h1 className='a.title'>About Me</h1>
             <p className='a-sub'>
-                Something about reading my content
+                Developing innovative and modern web solutions.
             </p>
             <p className='a-desc'>
-                time to explain more about myself, treat this like a resume.
+            Innovative software engineer with expertise building full stack applications using Ruby, Rails, SQL databases, Javascript, React, Recoil, while following RESTful API architecture and best practices.
             </p>
             <div className='a-award'>
                 <img src={Cert} alt='certification' className='a-award-img'></img>
                 <div className="a-awards-texts">
                     <h4 className="a-award-title">Software Engineering Graduate 2022</h4>
-                    <p className="a-award-desc">something about completing the bootcamp</p>
+                    <p className="a-award-desc">15 Week Intensive // Full Stack Software Engineering Program.
+                        - Front End: Javascript (ES6+), React.js
+                        - Back End: Ruby, Ruby on Rails, SQL, PostgreSQL & Active Record</p>
                 </div>
             </div>
         </div>
