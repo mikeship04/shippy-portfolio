@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shippy-portfolio/static/css/main.4e79098f.css",
+    "main.js": "/shippy-portfolio/static/js/main.21ebb533.js",
+    "static/media/picwish.png": "/shippy-portfolio/static/media/picwish.6982990d2146ab3c7a25.png",
+    "static/media/FIS Cert.png": "/shippy-portfolio/static/media/FIS Cert.db9afbf118a6fa8183e1.png",
+    "index.html": "/shippy-portfolio/index.html",
+    "main.4e79098f.css.map": "/shippy-portfolio/static/css/main.4e79098f.css.map",
+    "main.21ebb533.js.map": "/shippy-portfolio/static/js/main.21ebb533.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e79098f.css",
+    "static/js/main.21ebb533.js"
+  ]
+}
