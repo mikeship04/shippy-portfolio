@@ -30,7 +30,7 @@ export const projectInfo = [
         link: 'https://github.com/mikeship04/meal-prep-app',
     },
     {
-        id: 5,
+        id: 6,
         name: "brewfinder",
         img: 'https://media.istockphoto.com/photos/draught-beer-in-glasses-picture-id1040303026?k=20&m=1040303026&s=612x612&w=0&h=Unc2RVn4j35mk_9kZDrfrfFCBV6JlfTJlso3brooCV4=',
         link: 'https://github.com/mikeship04/brewfinder',

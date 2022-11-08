@@ -43,7 +43,7 @@ function Contact() {
                     alt=''
                     className='c-icon'
                     />
-                    shiprektcodes@gmail.com
+                    mikeship04@gmail.com
                 </div> 
                 <div className="c-info-item">
                     <img
