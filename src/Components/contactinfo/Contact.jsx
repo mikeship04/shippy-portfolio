@@ -9,10 +9,11 @@ function Contact() {
     function sendEmail(e){
         e.preventDefault()
         emailjs.sendForm(
-            'service_utmlh8o', 
-            'template_dnfmrm9', 
+            process.env.REACT_APP_SERVICE_ID,
+            process.env.REACT_APP_EMAILJS_TEMPLATE_ID,
             form.current, 
-            'roB7kGix8CEFlbnci')
+            process.env.REACT_APP_EMAILJS_PUBLIC_KEY
+        )
         .then((result) => {
             console.log(result.text)
             setDone(true)

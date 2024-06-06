@@ -18,10 +18,10 @@ function Intro() {
                     </div>
                 </div>
                 <p className="i-desc">
-                    I am a hospitality manger turned software engineer.  
-                    With years of experience of customer
-                    facing interaction, I bring a passion for modern web-design, 
-                    UI/UX, and creating Full-Stack applications.
+                I'm a software engineer with a proven track record of building and maintaining full-stack applications. 
+                Proficient in JavaScript, PHP, Python, and relational databases with a solid understanding of RESTful API architecture. 
+                Committed to continuous education and effectively collaborating with cross-functional teams to deliver innovative solutions. 
+                I leverage previous experience in the hospitality industry to excel under pressure, engage in proficient team management, and thrive when faced with challenges requiring creativity and resourcefulness.
                 </p>
             </div>
         </div>

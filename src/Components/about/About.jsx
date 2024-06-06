@@ -1,6 +1,5 @@
 import React from 'react'
 import './about.css'
-import Cert from '../../images/FIS Cert.png'
 
 function About() {
   return (
@@ -20,10 +19,11 @@ function About() {
                 Developing innovative and modern web solutions.
             </p>
             <p className='a-desc'>
-            Innovative software engineer with expertise building full stack applications using Ruby, Rails, SQL databases, Javascript, React, Recoil, while following RESTful API architecture and best practices.
+            Prior to my career in software engineering I had 15 years in the hospitality management industry with successful track record working with diverse teams utilizing effective communication and a goal oriented mindset.
+            Recognized for brand development and opening operation of Adams Table restaurant Downtown Phoenix. 
+            Dedicated professional with a host of different job responsibilities and multiple promotions with positions focusing on driving sales, inventory management, scheduling, technical support for front and back of house systems.
             </p>
             <div className='a-award'>
-                <img src={Cert} alt='certification' className='a-award-img'></img>
                 <div className="a-awards-texts">
                     <h4 className="a-award-title">Software Engineering Graduate 2022</h4>
                     <p className="a-award-desc">15 Week Intensive // Full Stack Software Engineering Program.
