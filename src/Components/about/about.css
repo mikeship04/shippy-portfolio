@@ -81,13 +81,15 @@
 
 @media screen and (max-width: 480px){
     .a{
+        display: flex;
         flex-direction: column;
         text-align: center;
+        justify-content: center;
         margin-top: 50px;
     }
 
     .a-left{
-        width: 100%;
+        width: 100%;    
     }
 
     .a-card{
@@ -97,14 +99,23 @@
     .a-card.bg{
         display: none;
     }
-    
-    .a-award-img{
-        display: none;
-    }
-
 
     .a-right{
+        width: 100%;
         padding: 20px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+
+    .a-desc{
+        width: 100%;
+        text-align: center;
+    }
+
+    .a-award{
+        display: none;
     }
 
 }

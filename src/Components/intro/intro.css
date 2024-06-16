@@ -92,12 +92,22 @@
         flex-direction: column;
     }
 
+    .i-title-item{
+        flex-direction: column;
+        justify-content: center;
+    }
+
     .i-left-wrapper{
         padding: 10px;
         align-items: center;
         justify-content: center;
         text-align: center;
         height: 100%
+    }
+
+    .i-right{
+        margin-top: -30vw;
+        margin-left: 10vw;
     }
 
     .i-desc{

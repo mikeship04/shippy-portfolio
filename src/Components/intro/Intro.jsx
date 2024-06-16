@@ -15,6 +15,7 @@ function Intro() {
                         <div className="i-title-item">Web Developer</div>
                         <div className="i-title-item">UI/UX Designer</div>
                         <div className='i-title-item'>RESTful API Developer</div>
+                        <div className='i-title-item'>Data Jockey</div>
                     </div>
                 </div>
                 <p className="i-desc">

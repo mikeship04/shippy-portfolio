@@ -30,16 +30,28 @@
 
 .p-img{
     width: 100%;
-    transition: all 10s ease;
+    height: 100%;
+    transition: all 10s ease;   
 }
 
 .p:hover .p-img{
-    transform: translateY(-100%);
+    transform: translate(-100%);
 }
 
 @media screen and (max-width: 480px) {
     .p {
         width: 40%;
         height: 20vh;
+    }
+
+    .p-circle{
+        display: none;
+    }
+
+    .p-text{
+        font-size: small;
+        color: white;
+        white-space: nowrap;
+        text-align: center  ;
     }
 }
